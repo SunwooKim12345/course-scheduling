@@ -1,0 +1,529 @@
+.login-page {
+    background-color: #ffffff;
+    height: 100%;
+    overflow: hidden;
+    width: 100%; 
+    margin: 0 auto;
+  }
+
+  .group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .login-page .text-wrapper {
+    color: #000000;
+    font-family: "Questrial-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 217px;
+    letter-spacing: -1.28px;
+    line-height: 76.8px;
+    position: absolute;
+    text-align: center;
+    top: 112px;
+    white-space: nowrap;
+    width: 1020px;
+  }
+  
+  .login-page .button {
+    all: unset;
+    background-color: #3d58e5;
+    border-radius: 8px;
+    box-sizing: border-box;
+    height: 64px;
+    left: 638px;
+    overflow: hidden;
+    position: absolute;
+    top: 798px;
+    width: 227px;
+  }
+  
+  .login-page .div {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 26px;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .login-page .element-logo-google {
+    height: 63px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 63px;
+  }
+  
+  .login-page .header {
+    background-color: #ffffff;
+    height: 112px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .login-page .text-wrapper-2 {
+    color: #3d58e5;
+    font-family: "Nokora-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 96px;
+    letter-spacing: -0.32px;
+    line-height: 32px;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 40px;
+    width: 367px;
+  }
+  
+  .login-page .p {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 55px;
+    left: 638px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 723px;
+    width: 311px;
+  }
+  
+  .login-page .group-2 {
+    height: 470px;
+    left: 217px;
+    position: absolute;
+    top: 233px;
+    width: 55px;
+  }
+  
+  .login-page .element-am {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -110px;
+    width: 55px;
+  }
+  
+  .login-page .img {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -74px;
+    width: 55px;
+  }
+  
+  .login-page .element-am-2 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -38px;
+    width: 55px;
+  }
+  
+  .login-page .element-am-3 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -2px;
+    width: 55px;
+  }
+  
+  .login-page .element-am-4 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 34px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 71px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-2 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 107px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-3 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 143px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-4 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 179px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-5 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 215px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-6 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 251px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-7 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 287px;
+    width: 55px;
+  }
+  
+  .login-page .element-pm-8 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 323px;
+    width: 55px;
+  }
+  
+  .login-page .group-3 {
+    height: 470px;
+    left: 295px;
+    position: absolute;
+    top: 233px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -110px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-2 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -74px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-3 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -38px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-4 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: -2px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-5 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 34px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-6 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 71px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-7 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 107px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-8 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 143px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-9 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 179px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-10 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 215px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-11 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 251px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-12 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 287px;
+    width: 166px;
+  }
+  
+  .login-page .shape-with-text-13 {
+    height: 36px;
+    left: 5775px;
+    position: absolute;
+    top: 323px;
+    width: 166px;
+  }
+  
+  .login-page .group-4 {
+    height: 470px;
+    left: 489px;
+    position: absolute;
+    top: 233px;
+    width: 166px;
+  }
+  
+  .login-page .group-5 {
+    height: 470px;
+    left: 683px;
+    position: absolute;
+    top: 233px;
+    width: 166px;
+  }
+  
+  .login-page .group-6 {
+    height: 470px;
+    left: 877px;
+    position: absolute;
+    top: 233px;
+    width: 166px;
+  }
+  
+  .login-page .group-7 {
+    height: 470px;
+    left: 1071px;
+    position: absolute;
+    top: 233px;
+    width: 166px;
+  }
+  
+  .login-page .text-wrapper-3 {
+    color: #1e1e1e;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 294px;
+    letter-spacing: -0.29px;
+    line-height: 19.5px;
+    position: absolute;
+    text-align: center;
+    top: 208px;
+    white-space: nowrap;
+    width: 167px;
+  }
+  
+  .login-page .text-wrapper-4 {
+    color: #1e1e1e;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 488px;
+    letter-spacing: -0.29px;
+    line-height: 19.5px;
+    position: absolute;
+    text-align: center;
+    top: 208px;
+    white-space: nowrap;
+    width: 168px;
+  }
+  
+  .login-page .text-wrapper-5 {
+    color: #1e1e1e;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 681px;
+    letter-spacing: -0.29px;
+    line-height: 19.5px;
+    position: absolute;
+    text-align: center;
+    top: 209px;
+    white-space: nowrap;
+    width: 169px;
+  }
+  
+  .login-page .text-wrapper-6 {
+    color: #1e1e1e;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 877px;
+    letter-spacing: -0.29px;
+    line-height: 19.5px;
+    position: absolute;
+    text-align: center;
+    top: 209px;
+    white-space: nowrap;
+    width: 165px;
+  }
+  
+  .login-page .text-wrapper-7 {
+    color: #1e1e1e;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 1072px;
+    letter-spacing: -0.29px;
+    line-height: 19.5px;
+    position: absolute;
+    text-align: center;
+    top: 209px;
+    white-space: nowrap;
+    width: 165px;
+  }
+  
+  .login-page .overlap-group {
+    height: 73px;
+    left: 6263px;
+    position: absolute;
+    top: 411px;
+    width: 167px;
+  }
+  
+  .login-page .cse {
+    height: 72px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .login-page .cse-2 {
+    height: 73px;
+    left: 55px;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .login-page .cse-3 {
+    height: 73px;
+    left: 111px;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }
+  
+  .login-page .cse-4 {
+    height: 72px;
+    left: 6374px;
+    position: absolute;
+    top: 178px;
+    width: 56px;
+  }
+  
+  .login-page .cse-5 {
+    height: 73px;
+    left: 6069px;
+    position: absolute;
+    top: 266px;
+    width: 167px;
+  }
+  
+  .login-page .cse-6 {
+    height: 73px;
+    left: 6315px;
+    position: absolute;
+    top: 177px;
+    width: 59px;
+  }
+  
+  .login-page .cse-7 {
+    height: 73px;
+    left: 6263px;
+    position: absolute;
+    top: 176px;
+    width: 52px;
+  }
+  
+  .login-page .cse-8 {
+    height: 72px;
+    left: 6763px;
+    position: absolute;
+    top: 177px;
+    width: 56px;
+  }
+  
+  .login-page .cse-9 {
+    height: 73px;
+    left: 6704px;
+    position: absolute;
+    top: 176px;
+    width: 59px;
+  }
+  
+  .login-page .cse-10 {
+    height: 73px;
+    left: 6652px;
+    position: absolute;
+    top: 175px;
+    width: 52px;
+  }
+  
+  .login-page .cse-11 {
+    height: 107px;
+    left: 6847px;
+    position: absolute;
+    top: 269px;
+    width: 165px;
+  }
+  
