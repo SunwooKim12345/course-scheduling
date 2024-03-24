@@ -1,33 +1,45 @@
 import React from "react";
+import google from "../images/google-logo.svg"
+import am_8 from "../images/8 am.svg" 
+import am_9 from "../images/9 am.svg"
+import am_10 from "../images/10 am.svg"
+import am_11 from "../images/11 am.svg"
+import pm_12 from "../images/12 pm.svg"
+import pm_1 from "../images/1 pm.svg"
+import pm_2 from "../images/2 pm.svg"
+import pm_3 from "../images/3 pm.svg"
+import pm_4 from "../images/4 pm.svg"
+import pm_5 from "../images/5 pm.svg"
+import pm_6 from "../images/6 pm.svg"
+import pm_7 from "../images/7 pm.svg"
 import "../css/MainPage.css";
 
 export const MainPage = () => {
   return (
-    <div className="login-page">
+    <div className="main-page">
       <div className="group">
         <div className="text-wrapper">Easy Course Scheduling</div>
         <button className="button">
           <div className="div">Google Sign in</div>
-          <img className="element-logo-google" alt="Element logo google" src="7123025-logo-google-g-icon-1.png" />
+          <img className="element-logo-google" alt="Element logo google" src={google} />
         </button>
         <header className="header">
           <div className="text-wrapper-2">Course Schedule</div>
         </header>
         <p className="p">Sign in free with Google</p>
         <div className="group-2">
-          <img className="element-am" alt="Element am" src="7-am.svg" />
-          <img className="img" alt="Element am" src="8-am.svg" />
-          <img className="element-am-2" alt="Element am" src="9-am.svg" />
-          <img className="element-am-3" alt="Element am" src="10-am.svg" />
-          <img className="element-am-4" alt="Element am" src="11-am.svg" />
-          <img className="element-pm" alt="Element pm" src="12-pm.svg" />
-          <img className="element-pm-2" alt="Element pm" src="1-pm.svg" />
-          <img className="element-pm-3" alt="Element pm" src="2-pm.svg" />
-          <img className="element-pm-4" alt="Element pm" src="3-pm.svg" />
-          <img className="element-pm-5" alt="Element pm" src="4-pm.svg" />
-          <img className="element-pm-6" alt="Element pm" src="5-pm.svg" />
-          <img className="element-pm-7" alt="Element pm" src="6-pm.svg" />
-          <img className="element-pm-8" alt="Element pm" src="7-pm.svg" />
+          <img className="element-am" alt="Element am" src={am_8} />
+          <img className="element-am-2" alt="Element am" src={am_9} />
+          <img className="element-am-3" alt="Element am" src={am_10} />
+          <img className="element-am-4" alt="Element am" src={am_11} />
+          <img className="element-pm" alt="Element pm" src={pm_12} />
+          <img className="element-pm-2" alt="Element pm" src={pm_1} />
+          <img className="element-pm-3" alt="Element pm" src={pm_2} />
+          <img className="element-pm-4" alt="Element pm" src={pm_3} />
+          <img className="element-pm-5" alt="Element pm" src={pm_4} />
+          <img className="element-pm-6" alt="Element pm" src={pm_5} />
+          <img className="element-pm-7" alt="Element pm" src={pm_6} />
+          <img className="element-pm-8" alt="Element pm" src={pm_7} />
         </div>
         <div className="group-3">
           <img className="shape-with-text" alt="Shape with text" src="shape-with-text.svg" />
@@ -113,7 +125,7 @@ export const MainPage = () => {
           <img className="cse" alt="Cse" src="cse301.svg" />
           <img className="cse-2" alt="Cse" src="cse310.svg" />
           <img className="cse-3" alt="Cse" src="cse373.svg" />
-        </div>
+        </div> 
         <img className="cse-4" alt="Cse" src="cse216.svg" />
         <img className="cse-5" alt="Cse" src="cse101.svg" />
         <img className="cse-6" alt="Cse" src="cse215.svg" />
